@@ -50,7 +50,6 @@ title: Google Map Icons
 ![earthquake.shadow.png](assets/earthquake.shadow.png)
 ![electronics.png](assets/electronics.png)
 ![electronics.shadow.png](assets/electronics.shadow.png)
-![en.png](assets/en.png)
 ![euro.png](assets/euro.png)
 ![euro.shadow.png](assets/euro.shadow.png)
 ![fallingrocks.png](assets/fallingrocks.png)
@@ -196,4 +195,3 @@ title: Google Map Icons
 ![ylw-blank.png](assets/ylw-blank.png)
 ![ylw-pushpin(1).png](assets/ylw-pushpin(1).png)
 ![ylw-pushpin.png](assets/ylw-pushpin.png)
-
